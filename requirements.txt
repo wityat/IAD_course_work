@@ -1,0 +1,17 @@
+torch
+evaluate
+rouge-score
+bert_score
+datasets
+transformers[sentencepiece]
+sentencepiece
+sentence-transformers
+scikit-learn
+spacy
+nltk
+numpy
+tqdm
+pandas
+seaborn
+matplotlib
+
